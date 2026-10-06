@@ -117,15 +117,7 @@ The bottom footer displays live model statistics:
 - **connectors** — active relationships between elements
 - **views** — active named architecture views
 
-And a credit link: [Idea & Design by raghukr80](https://github.com/raghukr80)
 
-## Custom Icon
-
-The app uses a custom `.ico` file (`public/likC4sd.ico`). It is linked in `index.html`:
-
-```html
-<link rel="icon" type="image/x-icon" href="/likC4sd.ico" />
-```
 
 ## Environment Variables
 
